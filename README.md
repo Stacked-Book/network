@@ -14,9 +14,6 @@
 
 ### 🛒 기록
 - (대기)[성공과 실패를 결정하는 1%의 네트워크 원리](http://www.yes24.com/Product/Goods/90640081)
-- (대기)[자바 병렬프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960770485)
-
-
 
 ### ✅ 목표
 - 책을읽는속도에 동의하시고, 얻고싶은점이 동일한사람들과 함께 천천히,꾸준히 쌓여있던 읽고싶은책을 같이읽습니다.
