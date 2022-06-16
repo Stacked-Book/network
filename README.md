@@ -11,3 +11,7 @@
 
 ## ✅ 인원
 - 총 5명
+
+## ❓ 질문 
+
+[네트워크 질문](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=)
