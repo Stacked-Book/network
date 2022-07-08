@@ -11,6 +11,6 @@
 ## ✅ 인원
 - 총 5명
 
-## ❓ 질문 
+## ❓ 질문 및 지식점검
 
 [네트워크 지식 재점검해보기](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=)
