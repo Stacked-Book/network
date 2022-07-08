@@ -6,7 +6,6 @@
 - 1주단위로 책을 정리한다.
 - 분량은 주당 책의 1장~2장 정도로 유동적으로 정한다.
 - 스터디 시간 전까지 각자 정리한자료를 업로드합니다.
-- 정리한 내용에는 **본인이 이해한내용, 느낀점 , (Optional)의문이나 고민점 토론하고싶은 부분**등을 같이 업로드해야한다.
 - 스터디당일 모여서 발표자 랜덤선정후 발표하고 토론,질의응답,자료공유 하는 시간을 가진다. (모임o)
 
 ## ✅ 인원
@@ -14,4 +13,4 @@
 
 ## ❓ 질문 
 
-[네트워크 질문](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=)
+[네트워크 지식 재점검해보기](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=)
