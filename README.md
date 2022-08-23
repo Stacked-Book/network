@@ -13,4 +13,4 @@
 
 ## ❓ 질문 및 지식점검
 
-[네트워크 지식 재점검해보기](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=)
+[네트워크 지식 재점검해보기](https://github.com/Stacked-Book/network/issues/new?assignees=&labels=&template=feature_request.md&title=) (9월이후 재개)
